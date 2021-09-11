@@ -2210,11 +2210,15 @@ a {
   a:hover, a:focus {
     color: #378C3F; }
 
-a, .collapser {
+a.collapser {
   text-decoration: none;
   color: black;
 }
-a:hover, a:focus, .collapser {
+a:focus.collapser {
+  text-decoration: none;
+  color: black;
+}
+a:hover.collapser {
   text-decoration: none;
   color: black;
 }
