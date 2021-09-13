@@ -2210,6 +2210,19 @@ a {
   a:hover, a:focus {
     color: #378C3F; }
 
+a.collapser {
+  text-decoration: none;
+  color: black;
+}
+a:focus.collapser {
+  text-decoration: none;
+  color: black;
+}
+a:hover.collapser {
+  text-decoration: none;
+  color: black;
+}
+
 h1, .h1 {
   font-size: 3.5em;
   line-height: 1.15;
@@ -5220,6 +5233,18 @@ Created using IcoMoon - icomoon.io
   padding-right: 0;
   text-align: center;
   color: #fff; }
+
+/* Portfolio Style */
+.cc-portfolio .h5 {
+  margin-bottom: 0;
+}
+
+.cc-portfolio .cc-portfolio-header {
+  padding-top: 60px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+}
 
 /* References Style */
 .cc-reference .card {
