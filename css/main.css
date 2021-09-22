@@ -5224,6 +5224,15 @@ Created using IcoMoon - icomoon.io
   color: #fff;
   text-transform: uppercase; }
 
+/* Volunteer Style */
+.cc-volunteer .cc-volunteer-header {
+  padding-top: 60px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
 /* Education Style */
 .cc-education .h5 {
   margin-bottom: 0; }
